@@ -1,0 +1,13 @@
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.AssemblyInfo.cs
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.exe
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.deps.json
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.runtimeconfig.json
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.dll
+C:\Users\Windows\Desktop\questao_2\bin\Debug\netcoreapp3.1\questao_2.pdb
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.dll
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.pdb
+C:\Users\Windows\Desktop\questao_2\obj\Debug\netcoreapp3.1\questao_2.genruntimeconfig.cache
